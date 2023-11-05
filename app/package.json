@@ -35,7 +35,7 @@
     "electron-is-dev": "^0.1.2",
     "electron-settings": "^3.0.14",
     "electron-updater": "^1.14.2",
-    "ffmpeg-stream": "^0.5.0",
+    "ffmpeg-stream": "^0.7.0",
     "jocly": "^0.9.12",
     "jquery": "^3.2.1",
     "js-yaml": "^3.8.3",
