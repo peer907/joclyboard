@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "byline": "^5.0.0",
-    "dialogs": "^1.1.19",
+    "dialogs": "^2.0.1",
     "electron-debug": "^1.1.0",
     "electron-is-dev": "^0.1.2",
     "electron-settings": "^3.0.14",
